@@ -5,8 +5,8 @@ let vx
 let vy
 let x
 let y
-let d=60
-let r=d/2
+let d
+let r
 
 
 
@@ -15,6 +15,7 @@ function setup() {
     x=400
     y=400
     d=60
+    r=d/2
 
     vx=-2
     vy=1
@@ -34,13 +35,13 @@ function draw() {
     if(x<0) {
       vx=-1*vx
     }
-    if(x>400) {
+    if(x>w) {
       vx=-1*vx
     }
     if(y<0) {
       vy=-1*vy
     }
-    if(y>400) {
+    if(y>h) {
       vy=-1*vy
     }
 
