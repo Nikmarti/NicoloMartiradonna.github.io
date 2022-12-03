@@ -1,8 +1,8 @@
+
 //mettere l'accelerazione sull'asse y
 //mettere l'input nel file html
 //fare due input ovvero uno sull'asse x e uno su quello y
 //mettere il quesryselctor per fare il collegamento "AXFIELD.addeventlistener"
-
 let ax=-0.01 
 let vx=0
 let x=0
