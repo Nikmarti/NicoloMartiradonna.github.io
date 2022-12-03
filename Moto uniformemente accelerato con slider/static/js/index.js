@@ -1,7 +1,3 @@
-//mettere l'accelerazione sull'asse y
-//mettere l'input nel file html
-//fare due input ovvero uno sull'asse x e uno su quello y
-//mettere il quesryselctor per fare il collegamento "AXFIELD.addeventlistener"
 
 let ax=-0.01 
 let vx=0
@@ -25,7 +21,7 @@ function draw() {
   x=x+vx;
   
   if(x>=425){
-    x=-25; // Modifichiamo solo la posizione, non la vx
+    x=-25; 
   }
   
   if(x<-25){
