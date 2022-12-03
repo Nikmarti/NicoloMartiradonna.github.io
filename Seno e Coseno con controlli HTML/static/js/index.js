@@ -1,3 +1,6 @@
+let w=900
+let h=400
+
 let ampiezza = 50
 		let frequenza = 2
 		let fase = 0
@@ -6,27 +9,27 @@ let ampiezza = 50
 
 		function setup() 
 		{
-		  createCanvas(900, 400);
+		  createCanvas(w, h);
 		  background(220);
-		  line(0,200,900,200)
+		  line(0,h/2,w,h/2)
 		}
 
 		function draw() 
 		{
-		  let x = map(angle,0,2*PI,0,400)
+		  let x = map(angle,0,2*PI,0,w)
 		  let ysin = ampiezza*sin(2*PI*frequenza*angle+fase)
-      let ycos = ampiezza*cos(2*PI*frequenza*angle+fase)
+      	let ycos = ampiezza*cos(2*PI*frequenza*angle+fase)
 		  stroke(0,0,255)
 		  strokeWeight(3)
-		  point(x,ysin+200)
+		  point(x,ysin+h/2)
 		  stroke(255,0,0)
-      point(x,ycos+200)
+      	point(x,ycos+h/2)
 		  angle += increment
-		  if(x >= 400){
+		  if(x >= w){
 		  	background(220)
 		  	strokeWeight(1)
 		  	stroke(0)
-		  	line(0,200,400,200)
+		  	line(0,h/2,w,h/2)
 		  	angle = 0
 		  }
 		}
