@@ -25,7 +25,7 @@ function draw() {
   x=x+vx;
   
   if(x>=425){
-    x=-25; // Modifichiamo solo la posizione, non la vx
+    x=-25; 
   }
   
   if(x<-25){
