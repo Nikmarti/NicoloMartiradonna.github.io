@@ -18,3 +18,6 @@
 
 ### Moto uniformemente accelerato con slider
 <a href="Moto uniformemente accelerato con slider/index.html">Moto uniformemente accelerato con slider</a><br>
+
+<a href="Gioco del Tris/Tris/index.html">"Gioco del tris</a><br>
+
