@@ -21,7 +21,7 @@
 
 
 ### Tris
-<a href="Esercizio tris/index.html">Gioco del tris</a><br>
+<a href="esercizio tris/index.html">Gioco del tris</a><br>
 
 
 ### Esercizio conversione in binario con ricorsione
