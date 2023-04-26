@@ -27,5 +27,5 @@
 ### Esercizio conversione in binario con ricorsione
 <a href="Decimale-binario/index.html">Esercizio conversione decimale/binario</a><br>
 
-###Introduzione a JSON
-<a href="Introduzione -a-JSON/index.html">Introduzione a JSON</a><br>
+### Intro a JSON
+<a href="Introduzione -a-JSON/index.html">Introduzione a JSON</a><br
