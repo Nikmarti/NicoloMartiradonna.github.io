@@ -28,4 +28,4 @@
 <a href="Decimale-binario/index.html">Esercizio conversione decimale/binario</a><br>
 
 ### Introduzione a JSON
-<a href="Introduzione/index.html">Introduzione a JSON</a><br>
+<a href="Introduzione/index.html">Esercizio: Introduzione a JSON</a><br>
