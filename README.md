@@ -30,5 +30,5 @@
 ### Introduzione a JSON
 <a href="Introduzione/index.html">Esercizio: Introduzione a JSON</a><br>
 
-### Check Norris
-<a href="Check Norris/index.html">Utilizzo di JSON API con Chuck Norris</a><br>
+### Chuck Norris
+<a href="Chuck Norris/index.html">Utilizzo di JSON API con Chuck Norris</a><br>
